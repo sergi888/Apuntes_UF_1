@@ -82,6 +82,7 @@ Hi ha tres rols diferents en els scrum que son:
     - Product Owner: Es el client que defineix els criteris.
     - Scrum Master: Es el encarregat de fer que es segueixi la metodologia scrum.
     - Team: Es el equip de desenvolupadors.
+
 Hi ha tres Artefactes diferents dins del Scrum que serien:
 
 -
