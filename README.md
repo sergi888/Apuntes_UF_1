@@ -61,15 +61,30 @@ Els models mes utilitzats son:
 - Evolutiu o incrimental: 
     - Metode en espiral: Va giran i esta en constant comunicació amb el client 
     - Metodologia Agil: Significa que s'adapta al entorn, millora el teu software de manera rapida mentres la adaptes a les teves necessitats.
-## Prototip 
+### Prototip 
 Els tipos de prototips son:
 - Prototip rapid: En el prototic rapid una vegada que l'has acabat es deixa d'utilitzar per que no el necessites mes.
 - Prototic evolutiu: Es segueix utilizant una vegada acabat de sissenyar-lo perque cada vegada va millorant mes.
-## Model en espiral 
+### Model en espiral 
 Els models en espirals esta en un constant moviment i van recorren sempre lo mateix.  
-## Metodologia Agils
+### Metodologia Agils
 Les Metodologia Agils mes conegudes son:
 - Kanban
->
+>Es pot denominar també com a sistemes de tarjeta i s'utilitza per a controlar la demanda de la fabricació dels productes necessaris, en cantitat i temps. 
 - Scrum
-- XP
+>El scrum es un model de desenvolupament incremental en el que es va fent diferents sprint cada 2,3 o 4 semanes. 
+
+Hi ha tres rols diferents en els scrum que son:
+    - Product Owner: Es el client que defineix els criteris.
+    - Scrum Master: Es el encarregat de fer que es segueixi la metodologia scrum.
+    - Team: Es el equip de desenvolupadors.
+Hi ha tres Artefactes diferents dins del Scrum que serien:
+    - Product Backlog 
+    - Sprint Backlog
+    - Incremento
+- XP: El XP te 5 valor diferents que es tenen que seguir que son:
+    - Simplicitat
+    - Comunciació
+    - Retroalimentació
+    - Valentia
+    - Respecte
