@@ -52,3 +52,24 @@ Hi ha cuatre tipus de manteniments que serien:
 * Perfectiu
 * Evolutiu
 * Adaptatiu
+## Models de desenvolupament de software
+Els models mes utilitzats son:
+- Classics
+  - Model en Cascada: Es un model que va amb diferents fases de adalt a baix en forma de cascada i va baixant en un orden especific.
+  - Model en V: Permet adaptarte i seguira la forma de v es a dir la part de adalt de la v sera mes abstracte i la part mes a baix sera mes especific
+- Constructiu: S'utilitza cuan el client no sap que fer 
+- Evolutiu o incrimental: 
+    - Metode en espiral: Va giran i esta en constant comunicació amb el client 
+    - Metodologia Agil: Significa que s'adapta al entorn, millora el teu software de manera rapida mentres la adaptes a les teves necessitats.
+## Prototip 
+Els tipos de prototips son:
+- Prototip rapid: En el prototic rapid una vegada que l'has acabat es deixa d'utilitzar per que no el necessites mes.
+- Prototic evolutiu: Es segueix utilizant una vegada acabat de sissenyar-lo perque cada vegada va millorant mes.
+## Model en espiral 
+Els models en espirals esta en un constant moviment i van recorren sempre lo mateix.  
+## Metodologia Agils
+Les Metodologia Agils mes conegudes son:
+- Kanban
+>
+- Scrum
+- XP
