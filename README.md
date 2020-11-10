@@ -8,6 +8,8 @@
 - DiscDur
 >En relació d'aquest maquinari i el programari s'encarrega d'emmagatzemar tot els tipus de dades que conté el programari.
 - Memoria RAM
+
+
 >La Memòria RAM s'encarrega d'emmagatzemar de forma temporal els fitxersos de datos. 
 - CPU
 >El processador és l'encarregat de llegir i executar les instruccions que hi ha dins de la memòria RAM i les dades necessarios.
@@ -75,13 +77,15 @@ Les Metodologia Agils mes conegudes son:
 >El scrum es un model de desenvolupament incremental en el que es va fent diferents sprint cada 2,3 o 4 semanes. 
 
 Hi ha tres rols diferents en els scrum que son:
-    - Product Owner: Es el client que defineix els criteris.
-    - Scrum Master: Es el encarregat de fer que es segueixi la metodologia scrum.
-    - Team: Es el equip de desenvolupadors.
+-
+ - Product Owner: Es el client que defineix els criteris.
+ - Scrum Master: Es el encarregat de fer que es segueixi la metodologia scrum.
+ - Team: Es el equip de desenvolupadors.
 Hi ha tres Artefactes diferents dins del Scrum que serien:
-- Product Backlog 
-- Sprint Backlog
-- Incremento
+-
+ - Product Backlog 
+ - Sprint Backlog
+ - Incremento
 - XP: El XP te 5 valor diferents que es tenen que seguir que son:
     - Simplicitat
     - Comunciació
